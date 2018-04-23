@@ -1,0 +1,1 @@
+﻿<%@ Application Codebehind="Global.asax.vb" Inherits="DXReportServer_Container.Web.Global" Language="vb" %>
