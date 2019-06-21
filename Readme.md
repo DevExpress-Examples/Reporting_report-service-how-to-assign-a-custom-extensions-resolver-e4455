@@ -8,6 +8,9 @@
 * [MainPage.xaml](./CS/DXReportServer_Container/MainPage.xaml) (VB: [MainPage.xaml](./VB/DXReportServer_Container/MainPage.xaml))
 <!-- default file list end -->
 # Report Service - How to assign a custom extensions resolver
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e4455)**
+<!-- run online end -->
 
 
 <p>This example shows how to assign a user-specified container for resolving extensions.</p><br />
